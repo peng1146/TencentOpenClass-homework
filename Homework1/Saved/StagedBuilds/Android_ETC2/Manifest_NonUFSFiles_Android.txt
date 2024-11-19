@@ -1,0 +1,7 @@
+Engine/Content/Renderer/TessellationTable.bin	2024-11-16T12:44:59.436Z
+Engine/Config/StagedBuild_Homework1.ini	2024-11-18T13:20:25.263Z
+Engine/Binaries/ThirdParty/Vulkan/Android/arm64-v8a/libVkLayer_khronos_validation.so	2024-11-16T12:40:23.049Z
+Engine/Binaries/ThirdParty/Vulkan/Android/armeabi-v7a/libVkLayer_khronos_validation.so	2024-11-16T12:39:28.154Z
+Engine/Binaries/ThirdParty/Vulkan/Android/x86/libVkLayer_khronos_validation.so	2024-11-16T12:46:06.754Z
+Engine/Binaries/ThirdParty/Vulkan/Android/x86_64/libVkLayer_khronos_validation.so	2024-11-16T12:46:45.401Z
+UECommandLine.txt	440ECA5CA13189511F77E71F0551E565

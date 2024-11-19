@@ -1,0 +1,231 @@
+﻿Log file open, 11/18/24 21:20:26
+LogWindows: Enabling Tpause support
+LogTrace: Initializing trace...
+LogTrace: Finished trace initialization.
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D379AFF24987044D648B719422B73327
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../UnrealEngine-sorce/Unreal Projects/Homework1/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogInit: ExecutableName: UnrealPak.exe
+LogInit: Build: UE5-CL-0
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=4ef2b8eb4f0897fc07c108a751babac4
+LogInit: DeviceId=
+LogInit: Engine Version: 5.5.0-0+UE5
+LogInit: Compatible Engine Version: 5.5.0-0+UE5
+LogInit: Net CL: 0
+LogInit: OS: Windows 11 (24H2) [10.0.26100.2314] (), CPU: Intel(R) Core(TM) i7-14700KF, GPU: NVIDIA GeForce RTX 4080 SUPER
+LogInit: Compiled (64-bit): Nov 18 2024 20:18:33
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.38.33143.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: UE5
+LogInit: Command Line: -CreateGlobalContainer="E:\1_UE\UnrealEngine-sorce\Unreal Projects\Homework1\Saved\StagedBuilds\Android_ETC2\Homework1\Content\Paks\global.utoc" -PackageStoreManifest="E:\1_UE\UnrealEngine-sorce\Unreal Projects\Homework1\Saved\Cooked\Android_ETC2\Homework1\Metadata\packagestore.manifest" -CookedDirectory="E:\1_UE\UnrealEngine-sorce\Unreal Projects\Homework1\Saved\Cooked\Android_ETC2" -Commands=E:\1_UE\UnrealEngine-release\Engine\Programs\AutomationTool\Saved\Logs\IoStoreCommands.txt -ScriptObjects="E:\1_UE\UnrealEngine-sorce\Unreal Projects\Homework1\Saved\Cooked\Android_ETC2\Homework1\Metadata\scriptobjects.bin" -patchpaddingalign=0 -compressionformats=Oodle -compresslevel=4 -compressmethod=Mermaid -cryptokeys="E:\1_UE\UnrealEngine-sorce\Unreal Projects\Homework1\Saved\Cooked\Android_ETC2\Homework1\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled -nopak
+LogInit: Base Directory: E:/1_UE/UnrealEngine-release/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 0
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 170
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 13
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 15
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 119
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.09ms
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: false, Async Loading Thread: false, Async Post Load: false
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
+LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2024.11.18-13.20.26:032][  0]LogInit: Computer: DESKTOP-HB49GBK
+[2024.11.18-13.20.26:032][  0]LogInit: User: 11465
+[2024.11.18-13.20.26:032][  0]LogInit: CPU Page size=4096, Cores=20
+[2024.11.18-13.20.26:032][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.18-13.20.26:249][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx) Virtual=56.8GB
+[2024.11.18-13.20.26:249][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.11.18-13.20.26:249][  0]LogMemory: Process Physical Memory: 72.60 MB used, 73.38 MB peak
+[2024.11.18-13.20.26:249][  0]LogMemory: Process Virtual Memory: 165.70 MB used, 165.70 MB peak
+[2024.11.18-13.20.26:249][  0]LogMemory: Physical Memory: 22750.23 MB used,  9851.76 MB free, 32602.00 MB total
+[2024.11.18-13.20.26:249][  0]LogMemory: Virtual Memory: 31795.61 MB used,  26406.39 MB free, 58202.00 MB total
+[2024.11.18-13.20.26:252][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2024.11.18-13.20.26:252][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
+[2024.11.18-13.20.26:252][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.18-13.20.26:252][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 428 public script object entries (15.03 KB)
+[2024.11.18-13.20.26:252][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2024.11.18-13.20.26:252][  0]LogInit: Using OS detected language ().
+[2024.11.18-13.20.26:252][  0]LogInit: Using OS detected locale ().
+[2024.11.18-13.20.26:252][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2024.11.18-13.20.26:253][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2024.11.18-13.20.26:253][  0]LogInit: Using OS detected language ().
+[2024.11.18-13.20.26:253][  0]LogInit: Using OS detected locale ().
+[2024.11.18-13.20.26:253][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2024.11.18-13.20.26:253][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2024.11.18-13.20.26:253][  0]LogPakFile: Display: ProjectDir: ../../../../UnrealEngine-sorce/Unreal Projects/Homework1/
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'E:\1_UE\UnrealEngine-sorce\Unreal Projects\Homework1\Saved\Cooked\Android_ETC2\Homework1\Metadata\Crypto.json'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Container signing - DISABLED
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Directory index - ENABLED
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using compression block size '65536'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using compression block alignment '0'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using max partition size '0'
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Not using DDC for compression
+[2024.11.18-13.20.26:253][  0]LogIoStore: Display: Using command list file: 'E:\1_UE\UnrealEngine-release\Engine\Programs\AutomationTool\Saved\Logs\IoStoreCommands.txt'
+[2024.11.18-13.20.26:254][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2024.11.18-13.20.26:254][  0]LogIoStore: Display: Fetched 514 oplog items from Manifest in 0.00 seconds
+[2024.11.18-13.20.26:255][  0]LogIoStore: Display: Parsed 514 oplog items 0.00 seconds, 649 chunks
+[2024.11.18-13.20.26:257][  0]LogIoStore: Display: Using input asset registry: E:/1_UE/UnrealEngine-sorce/Unreal Projects/Homework1/Saved/Cooked/Android_ETC2/Homework1/Metadata/DevelopmentAssetRegistry.bin
+[2024.11.18-13.20.26:259][  0]LogIoStore: Display: Loaded 139 chunk hashes from AssetRegistry in 0.00 seconds, 139 hashes updated in 0.00 seconds
+[2024.11.18-13.20.26:260][  0]LogIoStore: Display: Searching for cooked assets in folder 'E:\1_UE\UnrealEngine-sorce\Unreal Projects\Homework1\Saved\Cooked\Android_ETC2'
+[2024.11.18-13.20.26:264][  0]LogIoStore: Display: Found '1156' files
+[2024.11.18-13.20.26:270][  0]LogIoStore: Display: Creating container targets...
+[2024.11.18-13.20.26:271][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Mermaid, level=4=Normal
+[2024.11.18-13.20.26:304][  0]LogIoStore: Display: Parsing packages...
+[2024.11.18-13.20.26:304][  0]LogIoStore: Display: Reading package assets...
+[2024.11.18-13.20.26:305][  0]LogIoStore: Display: Packages read 494 files in 0.00 seconds, 699,131 total bytes, 477,418,055 bytes per second
+[2024.11.18-13.20.26:306][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2024.11.18-13.20.26:308][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 147 groups (61 of them didn't need new indices), average uncompressed size 105636 bytes, min 281 bytes, max 1037113 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.11.18-13.20.26:320][  0]LogIoStore: Display: Global-GLSL_ES3_1_ANDROID(OPENGL_ES3_1_ANDROID): Recompressed 1390 shaders as 147 groups. Library size changed from 3817 KB (3.97 : 1 ratio) to 1316 KB (11.52 : 1 ratio), 34.48% of previous.
+[2024.11.18-13.20.26:322][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 155 groups (65 of them didn't need new indices), average uncompressed size 112447 bytes, min 489 bytes, max 907307 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.11.18-13.20.26:345][  0]LogIoStore: Display: Global-SF_VULKAN_ES31_ANDROID(VULKAN_ES3_1_ANDROID): Recompressed 1410 shaders as 155 groups. Library size changed from 4895 KB (3.48 : 1 ratio) to 3340 KB (5.10 : 1 ratio), 68.23% of previous.
+[2024.11.18-13.20.26:346][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 142 groups (51 of them didn't need new indices), average uncompressed size 82972 bytes, min 201 bytes, max 665028 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.11.18-13.20.26:354][  0]LogIoStore: Display: Homework1-GLSL_ES3_1_ANDROID(OPENGL_ES3_1_ANDROID): Recompressed 753 shaders as 142 groups. Library size changed from 2981 KB (3.86 : 1 ratio) to 1303 KB (8.83 : 1 ratio), 43.72% of previous.
+[2024.11.18-13.20.26:356][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 144 groups (48 of them didn't need new indices), average uncompressed size 112959 bytes, min 325 bytes, max 959498 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.11.18-13.20.26:374][  0]LogIoStore: Display: Homework1-SF_VULKAN_ES31_ANDROID(VULKAN_ES3_1_ANDROID): Recompressed 782 shaders as 144 groups. Library size changed from 4046 KB (3.93 : 1 ratio) to 3133 KB (5.07 : 1 ratio), 77.45% of previous.
+[2024.11.18-13.20.26:374][  0]LogIoStore: Display: Shaders processed in 0.07 seconds
+[2024.11.18-13.20.26:375][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=14 (28 cores), MaxSourceBufferMemory=3072MiB
+[2024.11.18-13.20.26:375][  0]LogIoStore: Display: Processing redirects...
+[2024.11.18-13.20.26:375][  0]LogIoStore: Display: Creating disk layout...
+[2024.11.18-13.20.26:376][  0]LogIoStore: Display: Ordered 494 packages using fallback bundle order
+[2024.11.18-13.20.26:381][  0]LogIoStore: Display: Serializing container(s)...
+[2024.11.18-13.20.26:467][  0]LogIoStore: Display: Writing and compressing took 0.08 seconds, writes to disk took 0.05 seconds for 82,809,776 bytes @ 1,618,839,186 bytes per second.
+[2024.11.18-13.20.26:467][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2024.11.18-13.20.26:467][  0]LogIoStore: Display: Homework1-Android_ETC2: Found perfect hashmap for 1237 items.
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 132,403 bytes, 19,664,493 bytes per second
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display: Writing tocs... [Physical: 563 MiB, Virtual: 3447 MiB]
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display: 139 / 1,238 hashes were loaded from the hash database, by type:
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     BulkData                   139
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display: 633 / 1,238 chunks attempted to compress, by type:
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     ExportBundleData           494 / 494
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     BulkData                   139 / 139
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     MemoryMappedBulkData       0 / 11
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     ShaderCode                 0 / 588
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display: Source bytes read:
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     Zen:                                  0
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:     Loose File:                 188,577,293
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:         ExportBundleData         85,254,390 bytes over 988 reads
+[2024.11.18-13.20.26:473][  0]LogIoStore: Display:         BulkData                102,573,423 bytes over 139 reads
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display:         MemoryMappedBulkData        749,480 bytes over 22 reads
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display:     Memory:                      18,998,602
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display:         ShaderCodeLibrary           374,128 bytes over 8 reads
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display:         ShaderCode               18,624,474 bytes over 1,176 reads
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Calculating stats...
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Container Summary
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ==================
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.30                 2.30 -
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Homework1-Android_ETC2                              C/-/-/I/-            1237          128.68               148.43                76.69 (48.33% Oodle)
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Total                                                                    1238          129.30               150.72                78.98
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Compression block padding:     0.11 MiB
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Container Directory Index
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ==========================
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: global                                                   0.00
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Homework1-Android_ETC2                                  30.69
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Container Patch Report
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ========================
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Homework1-Android_ETC2                                   1237                0             1237             0.00            76.58
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: PackageStore
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: =============
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Homework1-Android_ETC2                                     16             494               0
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Total                                                      16             494               0
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:       494 Packages
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:      0.04 GB UExp
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:      0.00 GB UAsset
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:      0.10 GB UBulk
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:      4.55 MB for 302 Global shaders
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:      0.54 MB for 112 Shared shaders
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:      0.01 MB for 6 Unique shaders
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Input:      3.79 MB for 168 Inline shaders
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Output:     4226 Name map entries
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Output:      558 Imported package entries
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Output:      286 Packages without imports
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: Output:     2.30 MB InitialLoadData
+[2024.11.18-13.20.26:474][  0]LogIoStore: Display: 
+[2024.11.18-13.20.26:476][  0]LogPakFile: Display: UnrealPak executed in 0.222336 seconds
+[2024.11.18-13.20.26:477][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2024.11.18-13.20.26:477][  0]LogExit: Preparing to exit.
+[2024.11.18-13.20.26:477][  0]LogExit: Object subsystem successfully closed.
+[2024.11.18-13.20.26:478][  0]LogPakFile: Destroying PakPlatformFile
+[2024.11.18-13.20.26:478][  0]LogExit: Exiting.
+[2024.11.18-13.20.26:489][  0]Log file closed, 11/18/24 21:20:26
